@@ -20,15 +20,24 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Fabraz|[@Fabrazz](https://twitter.com/Fabrazz)|[@fabraz@mastodon.gamedev.place](https://mastodon.gamedev.place/@fabraz)|
 |Hempuli|[@ESAdevlog](https://twitter.com/ESAdevlog)|[@Hempuli@mastodon.gamedev.place](https://mastodon.gamedev.place/@Hempuli)|
 |Jake Birkett|[@GreyAlien](https://twitter.com/GreyAlien)|[@GreyAlien@mastodon.gamedev.place](https://mastodon.gamedev.place/@GreyAlien)|
+|James Sutherland|[@jamessutherland](https://twitter.com/jamessutherland)|[@jamessutherland@mastodon.gamedev.place](https://mastodon.gamedev.place/@jamessutherland)|
 |Jamie Sharp|[@Jamie_JSJ](https://twitter.com/Jamie_JSJ)|[@JSharp@home.social](https://home.social/@JSharp)|
+|Jennifer Hale|[@jhaletweets](https://twitter.com/jhaletweets)|[@jhale@mastodonsocial](https://mastodonsocial/@jhale)|
 |Jimmy Bowers|[@jimmysbowers](https://twitter.com/jimmysbowers)|[@jimmysbowers@mastodon.gamedev.place](https://mastodon.gamedev.place/@jimmysbowers)|
+|Kev Edwards Retro|[@KevEdwardsRetro](https://twitter.com/KevEdwardsRetro)|[@KevEdwardsRetro@oldbytes.space](https://oldbytes.space/@KevEdwardsRetro)|
 |Kev_Bayliss|[@Kev_Bayliss](https://twitter.com/Kev_Bayliss)|[@kev_bayliss@socel.net](https://socel.net/@kev_bayliss)|
 |Lord Arse!|[@Lord_Arse](https://twitter.com/Lord_Arse)|[@LordArse@toot.community](https://toot.community/@LordArse)|
 |Mark Alexander|[@NocturneGames](https://twitter.com/NocturneGames)|[@NocturneGames@mastodon.social](https://mastodon.social/@NocturneGames)|
+|Megan Bidmead|[@meganbidmead](https://twitter.com/meganbidmead)|[@meganbidmead@mastodonapp.uk](https://mastodonapp.uk/@meganbidmead)|
+|Megan Fox|[@glassbottommeg](https://twitter.com/glassbottommeg)|[@glassbottommeg@mastodon.gamedev.place](https://mastodon.gamedev.place/@glassbottommeg)|
 |Mike Dailly|[@mdf200](https://twitter.com/mdf200)|[@mdf200@mastodonapp.uk](https://mastodonapp.uk/@mdf200)|
 |Miketendo64|[@miketendo64](https://twitter.com/miketendo64)|[@miketendo64@mastodon.online](https://mastodon.online/@miketendo64)|
+|Noel Berry|[@NoelFB](https://twitter.com/NoelFB)|[@noelfb@mastodon.social](https://mastodon.social/@noelfb)|
 |Rami Ismail|[@tha_rami](https://twitter.com/tha_rami)|[@tha_rami@mastodon.social](https://mastodon.social/@tha_rami)|
+|Rapid Reviews|[@RapidReviewsuk](https://twitter.com/RapidReviewsuk)|[@rapidreviewsuk@home.social](https://home.social/@rapidreviewsuk)|
 |Retro Faith|[@RetroFaith1](https://twitter.com/RetroFaith1)|[@RetroFaith@mastodon.social](https://mastodon.social/@RetroFaith)|
+|Robin Poe|[@RobinPoedev](https://twitter.com/RobinPoedev)|[@Robinpoedev@mastodon.gamedev.place](https://mastodon.gamedev.place/@Robinpoedev)|
+|Ron Gilbert|[@grumpygamer](https://twitter.com/grumpygamer)|[@grumpygamer@mastodon.gamedev.place](https://mastodon.gamedev.place/@grumpygamer)|
 |Ryan Brown|[@Toadsanime](https://twitter.com/Toadsanime)|[@Toadsanime@mas.to](https://mas.to/@Toadsanime)|
 |Wario64|[@Wario64](https://twitter.com/Wario64)|[@Wario64@mastodon.social](https://mastodon.social/@Wario64)|
 |Wil Overton|[@kosmikat](https://twitter.com/kosmikat)|[@kosmikat@mastodon.social](https://mastodon.social/@kosmikat)|
