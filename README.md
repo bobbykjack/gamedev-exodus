@@ -10,8 +10,10 @@ You may find this useful when setting up your own Mastodon account and looking f
 
 |Name|Twitter|Mastodon|
 |-|-|-|
-|A Grumpy Fox|[@AGrumpyFox](https://twitter.com/AGrumpyFox)|[@AGrumpyFox@mastodon.gamedev.place](https://mastodon.gamedev.place/@AGrumpyFox)|
+|adamgryu|[@adamgryu](https://twitter.com/adamgryu)|[@adamgryu@mastodon.gamedev.place](https://mastodon.gamedev.place/@adamgryu)|
 |Adee|[@d__adee](https://twitter.com/d__adee)|[@d__adee@mastodon.social](https://mastodon.social/@d__adee)|
+|A Grumpy Fox|[@AGrumpyFox](https://twitter.com/AGrumpyFox)|[@AGrumpyFox@mastodon.gamedev.place](https://mastodon.gamedev.place/@AGrumpyFox)|
+|and0@Ohsat Games|[@ohsat_games](https://twitter.com/ohsat_games)|[@and0@mastodon.gamedev.place](https://mastodon.gamedev.place/@and0)|
 |Andrew J. Dickinson|[@@oddment84](https://twitter.com/@oddment84)|[@andrewjdickinson@mastodon.social](https://mastodon.social/@andrewjdickinson)|
 |Bobby Jack|[@bobbyjackdotme](https://twitter.com/bobbyjackdotme)|[@bobbyjackdotme@mas.to](https://mas.to/@bobbyjackdotme)|
 |Christian Reggie Wait|[@ChrisReggieWait](https://twitter.com/ChrisReggieWait)|[@Chrisreggiewait@metalhead.club](https://metalhead.club/@Chrisreggiewait)|
@@ -19,11 +21,13 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Daan Koopman|[@NintenDaan](https://twitter.com/NintenDaan)|[@NintenDaan@mastodon.social](https://mastodon.social/@NintenDaan)|
 |Fabraz|[@Fabrazz](https://twitter.com/Fabrazz)|[@fabraz@mastodon.gamedev.place](https://mastodon.gamedev.place/@fabraz)|
 |Hempuli|[@ESAdevlog](https://twitter.com/ESAdevlog)|[@Hempuli@mastodon.gamedev.place](https://mastodon.gamedev.place/@Hempuli)|
+|Iain MacQuarrie|[@IainMacQuarrie](https://twitter.com/IainMacQuarrie)|[@IainMacQuarrie@mastodon.gamedev.place](https://mastodon.gamedev.place/@IainMacQuarrie)|
 |Jake Birkett|[@GreyAlien](https://twitter.com/GreyAlien)|[@GreyAlien@mastodon.gamedev.place](https://mastodon.gamedev.place/@GreyAlien)|
 |James Sutherland|[@jamessutherland](https://twitter.com/jamessutherland)|[@jamessutherland@mastodon.gamedev.place](https://mastodon.gamedev.place/@jamessutherland)|
 |Jamie Sharp|[@Jamie_JSJ](https://twitter.com/Jamie_JSJ)|[@JSharp@home.social](https://home.social/@JSharp)|
 |Jennifer Hale|[@jhaletweets](https://twitter.com/jhaletweets)|[@jhale@mastodonsocial](https://mastodonsocial/@jhale)|
 |Jimmy Bowers|[@jimmysbowers](https://twitter.com/jimmysbowers)|[@jimmysbowers@mastodon.gamedev.place](https://mastodon.gamedev.place/@jimmysbowers)|
+|Kela|[@KelaMakesGames](https://twitter.com/KelaMakesGames)|[@kela@mastodon.gamedev.place](https://mastodon.gamedev.place/@kela)|
 |Kev Edwards Retro|[@KevEdwardsRetro](https://twitter.com/KevEdwardsRetro)|[@KevEdwardsRetro@oldbytes.space](https://oldbytes.space/@KevEdwardsRetro)|
 |Kev_Bayliss|[@Kev_Bayliss](https://twitter.com/Kev_Bayliss)|[@kev_bayliss@socel.net](https://socel.net/@kev_bayliss)|
 |Lord Arse!|[@Lord_Arse](https://twitter.com/Lord_Arse)|[@LordArse@toot.community](https://toot.community/@LordArse)|
@@ -35,13 +39,14 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Noel Berry|[@NoelFB](https://twitter.com/NoelFB)|[@noelfb@mastodon.social](https://mastodon.social/@noelfb)|
 |Rami Ismail|[@tha_rami](https://twitter.com/tha_rami)|[@tha_rami@mastodon.social](https://mastodon.social/@tha_rami)|
 |Rapid Reviews|[@RapidReviewsuk](https://twitter.com/RapidReviewsuk)|[@rapidreviewsuk@home.social](https://home.social/@rapidreviewsuk)|
+|Renaud Bédard|[@renaudbedard](https://twitter.com/renaudbedard)|[@renaudbedard@merveilles.town](https://merveilles.town/@renaudbedard)|
 |Retro Faith|[@RetroFaith1](https://twitter.com/RetroFaith1)|[@RetroFaith@mastodon.social](https://mastodon.social/@RetroFaith)|
 |Robin Poe|[@RobinPoedev](https://twitter.com/RobinPoedev)|[@Robinpoedev@mastodon.gamedev.place](https://mastodon.gamedev.place/@Robinpoedev)|
 |Ron Gilbert|[@grumpygamer](https://twitter.com/grumpygamer)|[@grumpygamer@mastodon.gamedev.place](https://mastodon.gamedev.place/@grumpygamer)|
 |Ryan Brown|[@Toadsanime](https://twitter.com/Toadsanime)|[@Toadsanime@mas.to](https://mas.to/@Toadsanime)|
+|Terry Cavanagh|[@terrycavanagh](https://twitter.com/terrycavanagh)|[@terry@mastodon.gamedev.place](https://mastodon.gamedev.place/@terry)|
 |Wario64|[@Wario64](https://twitter.com/Wario64)|[@Wario64@mastodon.social](https://mastodon.social/@Wario64)|
 |Wil Overton|[@kosmikat](https://twitter.com/kosmikat)|[@kosmikat@mastodon.social](https://mastodon.social/@kosmikat)|
-|and0@Ohsat Games|[@ohsat_games](https://twitter.com/ohsat_games)|[@and0@mastodon.gamedev.place](https://mastodon.gamedev.place/@and0)|
 
 ## More
 

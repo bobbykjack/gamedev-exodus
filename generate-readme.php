@@ -3,7 +3,7 @@
 // Load data from json file
 $accounts = json_decode(file_get_contents("accounts.json"), true);
 
-array_multisort(array_column($accounts, 'name'), SORT_ASC, $accounts);
+array_multisort(array_column($accounts, 'name'), SORT_NATURAL | SORT_FLAG_CASE, $accounts);
 
 $rows = array();
 
