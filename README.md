@@ -19,6 +19,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Christian Reggie Wait|[@ChrisReggieWait](https://twitter.com/ChrisReggieWait)|[@Chrisreggiewait@metalhead.club](https://metalhead.club/@Chrisreggiewait)|
 |CptnAlex|[@Cptn_Alex](https://twitter.com/Cptn_Alex)|[@cptnalex@mstdn.party](https://mstdn.party/@cptnalex)|
 |Daan Koopman|[@NintenDaan](https://twitter.com/NintenDaan)|[@NintenDaan@mastodon.social](https://mastodon.social/@NintenDaan)|
+|David “the Talking Skull” Fox|[@DavidBFox](https://twitter.com/DavidBFox)|[@DavidBFox@mastodon.social](https://mastodon.social/@DavidBFox)|
 |Fabraz|[@Fabrazz](https://twitter.com/Fabrazz)|[@fabraz@mastodon.gamedev.place](https://mastodon.gamedev.place/@fabraz)|
 |Hempuli|[@ESAdevlog](https://twitter.com/ESAdevlog)|[@Hempuli@mastodon.gamedev.place](https://mastodon.gamedev.place/@Hempuli)|
 |Iain MacQuarrie|[@IainMacQuarrie](https://twitter.com/IainMacQuarrie)|[@IainMacQuarrie@mastodon.gamedev.place](https://mastodon.gamedev.place/@IainMacQuarrie)|
@@ -31,12 +32,16 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Kev Edwards Retro|[@KevEdwardsRetro](https://twitter.com/KevEdwardsRetro)|[@KevEdwardsRetro@oldbytes.space](https://oldbytes.space/@KevEdwardsRetro)|
 |Kev_Bayliss|[@Kev_Bayliss](https://twitter.com/Kev_Bayliss)|[@kev_bayliss@socel.net](https://socel.net/@kev_bayliss)|
 |Lord Arse!|[@Lord_Arse](https://twitter.com/Lord_Arse)|[@LordArse@toot.community](https://toot.community/@LordArse)|
+|Maddy Thorson|[@MaddyThorson](https://twitter.com/MaddyThorson)|[@maddy@mastodon.gamedev.place](https://mastodon.gamedev.place/@maddy)|
 |Mark Alexander|[@NocturneGames](https://twitter.com/NocturneGames)|[@NocturneGames@mastodon.social](https://mastodon.social/@NocturneGames)|
 |Megan Bidmead|[@meganbidmead](https://twitter.com/meganbidmead)|[@meganbidmead@mastodonapp.uk](https://mastodonapp.uk/@meganbidmead)|
 |Megan Fox|[@glassbottommeg](https://twitter.com/glassbottommeg)|[@glassbottommeg@mastodon.gamedev.place](https://mastodon.gamedev.place/@glassbottommeg)|
 |Mike Dailly|[@mdf200](https://twitter.com/mdf200)|[@mdf200@mastodonapp.uk](https://mastodonapp.uk/@mdf200)|
+|Mike Rose|[@RaveofRavendale](https://twitter.com/RaveofRavendale)|[@mikerose@mastodon.online](https://mastodon.online/@mikerose)|
 |Miketendo64|[@miketendo64](https://twitter.com/miketendo64)|[@miketendo64@mastodon.online](https://mastodon.online/@miketendo64)|
+|Nick Westwood|[@RetroBreakNick](https://twitter.com/RetroBreakNick)|[@RetroBreak@toot.community](https://toot.community/@RetroBreak)|
 |Noel Berry|[@NoelFB](https://twitter.com/NoelFB)|[@noelfb@mastodon.social](https://mastodon.social/@noelfb)|
+|Paper Cult|[@papercultgames](https://twitter.com/papercultgames)|[@papercult@mastodon.gamedev.place](https://mastodon.gamedev.place/@papercult)|
 |Rami Ismail|[@tha_rami](https://twitter.com/tha_rami)|[@tha_rami@mastodon.social](https://mastodon.social/@tha_rami)|
 |Rapid Reviews|[@RapidReviewsuk](https://twitter.com/RapidReviewsuk)|[@rapidreviewsuk@home.social](https://home.social/@rapidreviewsuk)|
 |Renaud Bédard|[@renaudbedard](https://twitter.com/renaudbedard)|[@renaudbedard@merveilles.town](https://merveilles.town/@renaudbedard)|
@@ -44,6 +49,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Robin Poe|[@RobinPoedev](https://twitter.com/RobinPoedev)|[@Robinpoedev@mastodon.gamedev.place](https://mastodon.gamedev.place/@Robinpoedev)|
 |Ron Gilbert|[@grumpygamer](https://twitter.com/grumpygamer)|[@grumpygamer@mastodon.gamedev.place](https://mastodon.gamedev.place/@grumpygamer)|
 |Ryan Brown|[@Toadsanime](https://twitter.com/Toadsanime)|[@Toadsanime@mas.to](https://mas.to/@Toadsanime)|
+|Stealth|[@Stealth40k](https://twitter.com/Stealth40k)|[@Stealth40k@mstdn.social](https://mstdn.social/@Stealth40k)|
 |Terry Cavanagh|[@terrycavanagh](https://twitter.com/terrycavanagh)|[@terry@mastodon.gamedev.place](https://mastodon.gamedev.place/@terry)|
 |Wario64|[@Wario64](https://twitter.com/Wario64)|[@Wario64@mastodon.social](https://mastodon.social/@Wario64)|
 |Wil Overton|[@kosmikat](https://twitter.com/kosmikat)|[@kosmikat@mastodon.social](https://mastodon.social/@kosmikat)|
