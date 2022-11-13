@@ -51,8 +51,10 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Ryan Brown|[@Toadsanime](https://twitter.com/Toadsanime)|[@Toadsanime@mas.to](https://mas.to/@Toadsanime)|
 |Stealth|[@Stealth40k](https://twitter.com/Stealth40k)|[@Stealth40k@mstdn.social](https://mstdn.social/@Stealth40k)|
 |Terry Cavanagh|[@terrycavanagh](https://twitter.com/terrycavanagh)|[@terry@mastodon.gamedev.place](https://mastodon.gamedev.place/@terry)|
+|The Video Game Library|[@TheVGLibrary](https://twitter.com/TheVGLibrary)|[@thevglibrary@mstdn.social](https://mstdn.social/@thevglibrary)|
 |Wario64|[@Wario64](https://twitter.com/Wario64)|[@Wario64@mastodon.social](https://mastodon.social/@Wario64)|
 |Wil Overton|[@kosmikat](https://twitter.com/kosmikat)|[@kosmikat@mastodon.social](https://mastodon.social/@kosmikat)|
+|zep.p8|[@lexaloffle](https://twitter.com/lexaloffle)|[@zep@mastodon.social](https://mastodon.social/@zep)|
 
 ## More
 
