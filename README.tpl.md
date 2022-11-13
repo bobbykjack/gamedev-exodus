@@ -20,4 +20,4 @@ If you spot any mistakes, please let me know and I’ll rectify them.
 
 If you’re not on this list, but feel like you qualify, [give me a shout](https://mas.to/@bobbyjackdotme) and I’ll probably add you.
 
-Of course, feel free to open a pull request if you want to make the process as easy as possible for me!
+Of course, feel free to open a pull request (on [accounts.json](accounts.json), please) if you want to make the process as easy as possible for me!
