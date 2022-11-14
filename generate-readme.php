@@ -28,6 +28,7 @@ $out .= join("\n", $rows);
 // Append to README
 $readme = file_get_contents("README.tpl.md");
 $readme = str_replace("{ACCOUNT_TABLE}", $out, $readme);
+$readme = str_replace("{NUM_ACCOUNTS}", count($accounts), $readme);
 $res = file_put_contents("README.md", $readme);
 
 echo '<a href="README.md">README.md</a>';

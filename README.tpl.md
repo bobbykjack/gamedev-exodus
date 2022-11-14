@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **{NUM_ACCOUNTS}** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 

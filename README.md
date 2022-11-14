@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **48** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -32,6 +32,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Kev Edwards Retro|[@KevEdwardsRetro](https://twitter.com/KevEdwardsRetro)|[@KevEdwardsRetro@oldbytes.space](https://oldbytes.space/@KevEdwardsRetro)|
 |Kev_Bayliss|[@Kev_Bayliss](https://twitter.com/Kev_Bayliss)|[@kev_bayliss@socel.net](https://socel.net/@kev_bayliss)|
 |Lord Arse!|[@Lord_Arse](https://twitter.com/Lord_Arse)|[@LordArse@toot.community](https://toot.community/@LordArse)|
+|loren schmidt|[@lorenschmidt](https://twitter.com/lorenschmidt)|[@lorenschmidt@genart.social](https://genart.social/@lorenschmidt)|
 |Maddy Thorson|[@MaddyThorson](https://twitter.com/MaddyThorson)|[@maddy@mastodon.gamedev.place](https://mastodon.gamedev.place/@maddy)|
 |Mark Alexander|[@NocturneGames](https://twitter.com/NocturneGames)|[@NocturneGames@mastodon.social](https://mastodon.social/@NocturneGames)|
 |Megan Bidmead|[@meganbidmead](https://twitter.com/meganbidmead)|[@meganbidmead@mastodonapp.uk](https://mastodonapp.uk/@meganbidmead)|
@@ -39,9 +40,11 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Mike Dailly|[@mdf200](https://twitter.com/mdf200)|[@mdf200@mastodonapp.uk](https://mastodonapp.uk/@mdf200)|
 |Mike Rose|[@RaveofRavendale](https://twitter.com/RaveofRavendale)|[@mikerose@mastodon.online](https://mastodon.online/@mikerose)|
 |Miketendo64|[@miketendo64](https://twitter.com/miketendo64)|[@miketendo64@mastodon.online](https://mastodon.online/@miketendo64)|
+|Murray Somerwolf|[@MurraySomerwolf](https://twitter.com/MurraySomerwolf)|[@MurraySomerwolff@mastodon.gamedev.place](https://mastodon.gamedev.place/@MurraySomerwolff)|
 |Nick Westwood|[@RetroBreakNick](https://twitter.com/RetroBreakNick)|[@RetroBreak@toot.community](https://toot.community/@RetroBreak)|
 |Noel Berry|[@NoelFB](https://twitter.com/NoelFB)|[@noelfb@mastodon.social](https://mastodon.social/@noelfb)|
 |Paper Cult|[@papercultgames](https://twitter.com/papercultgames)|[@papercult@mastodon.gamedev.place](https://mastodon.gamedev.place/@papercult)|
+|RadioSEGA|[@RadioSEGA](https://twitter.com/RadioSEGA)|[@RadioSEGA@thevipvipers.space](https://thevipvipers.space/@RadioSEGA)|
 |Rami Ismail|[@tha_rami](https://twitter.com/tha_rami)|[@tha_rami@mastodon.social](https://mastodon.social/@tha_rami)|
 |Rapid Reviews|[@RapidReviewsuk](https://twitter.com/RapidReviewsuk)|[@rapidreviewsuk@home.social](https://home.social/@rapidreviewsuk)|
 |Renaud Bédard|[@renaudbedard](https://twitter.com/renaudbedard)|[@renaudbedard@merveilles.town](https://merveilles.town/@renaudbedard)|
