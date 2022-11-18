@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of **52** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **53** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -56,6 +56,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Robin Poe|[@RobinPoedev](https://twitter.com/RobinPoedev)|[@Robinpoedev@mastodon.gamedev.place](https://mastodon.gamedev.place/@Robinpoedev)|
 |Ron Gilbert|[@grumpygamer](https://twitter.com/grumpygamer)|[@grumpygamer@mastodon.gamedev.place](https://mastodon.gamedev.place/@grumpygamer)|
 |Ryan Brown|[@Toadsanime](https://twitter.com/Toadsanime)|[@Toadsanime@mas.to](https://mas.to/@Toadsanime)|
+|Silver Spook Games|[@SilvrSpookGames](https://twitter.com/SilvrSpookGames)|[@SilverSpookGames@mastodon.social](https://mastodon.social/@SilverSpookGames)|
 |Stealth|[@Stealth40k](https://twitter.com/Stealth40k)|[@Stealth40k@mstdn.social](https://mstdn.social/@Stealth40k)|
 |Terry Cavanagh|[@terrycavanagh](https://twitter.com/terrycavanagh)|[@terry@mastodon.gamedev.place](https://mastodon.gamedev.place/@terry)|
 |The Video Game Library|[@TheVGLibrary](https://twitter.com/TheVGLibrary)|[@thevglibrary@mstdn.social](https://mstdn.social/@thevglibrary)|
