@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of **56** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **58** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -15,6 +15,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |A Grumpy Fox|[@AGrumpyFox](https://twitter.com/AGrumpyFox)|[@AGrumpyFox@mastodon.gamedev.place](https://mastodon.gamedev.place/@AGrumpyFox)|
 |and0@Ohsat Games|[@ohsat_games](https://twitter.com/ohsat_games)|[@and0@mastodon.gamedev.place](https://mastodon.gamedev.place/@and0)|
 |Andrew J. Dickinson|[@@oddment84](https://twitter.com/@oddment84)|[@andrewjdickinson@mastodon.social](https://mastodon.social/@andrewjdickinson)|
+|AstridMie|[@Astridmrefstrup](https://twitter.com/Astridmrefstrup)|[@Astridmie@mastodon.gamedev.place](https://mastodon.gamedev.place/@Astridmie)|
 |Bobby Jack|[@bobbyjackdotme](https://twitter.com/bobbyjackdotme)|[@bobbyjackdotme@mas.to](https://mas.to/@bobbyjackdotme)|
 |Christian Reggie Wait|[@ChrisReggieWait](https://twitter.com/ChrisReggieWait)|[@Chrisreggiewait@metalhead.club](https://metalhead.club/@Chrisreggiewait)|
 |CptnAlex|[@Cptn_Alex](https://twitter.com/Cptn_Alex)|[@cptnalex@mstdn.party](https://mstdn.party/@cptnalex)|
@@ -41,6 +42,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Louis Durrant|[@louisdurrant](https://twitter.com/louisdurrant)|[@ldurrant@mastodon.art](https://mastodon.art/@ldurrant)|
 |Maddy Thorson|[@MaddyThorson](https://twitter.com/MaddyThorson)|[@maddy@mastodon.gamedev.place](https://mastodon.gamedev.place/@maddy)|
 |Mark Alexander|[@NocturneGames](https://twitter.com/NocturneGames)|[@NocturneGames@mastodon.social](https://mastodon.social/@NocturneGames)|
+|Mark Flynn|[@artistmarkflynn](https://twitter.com/artistmarkflynn)|[@artistmarkflynn@mastodon.gamedev.place](https://mastodon.gamedev.place/@artistmarkflynn)|
 |Megan Bidmead|[@meganbidmead](https://twitter.com/meganbidmead)|[@meganbidmead@mastodonapp.uk](https://mastodonapp.uk/@meganbidmead)|
 |Megan Fox|[@glassbottommeg](https://twitter.com/glassbottommeg)|[@glassbottommeg@mastodon.gamedev.place](https://mastodon.gamedev.place/@glassbottommeg)|
 |Michael Burns|[@thatpixelguy](https://twitter.com/thatpixelguy)|[@thatpixelguy@mastodon.gamedev.place](https://mastodon.gamedev.place/@thatpixelguy)|
