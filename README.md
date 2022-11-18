@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of **58** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **59** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -53,6 +53,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Nick Westwood|[@RetroBreakNick](https://twitter.com/RetroBreakNick)|[@RetroBreak@toot.community](https://toot.community/@RetroBreak)|
 |Noel Berry|[@NoelFB](https://twitter.com/NoelFB)|[@noelfb@mastodon.social](https://mastodon.social/@noelfb)|
 |Paper Cult|[@papercultgames](https://twitter.com/papercultgames)|[@papercult@mastodon.gamedev.place](https://mastodon.gamedev.place/@papercult)|
+|pixel games|[@pixelgames](https://twitter.com/pixelgames)|[@pixelgames@mastodon.gamedev.place](https://mastodon.gamedev.place/@pixelgames)|
 |RadioSEGA|[@RadioSEGA](https://twitter.com/RadioSEGA)|[@RadioSEGA@thevipvipers.space](https://thevipvipers.space/@RadioSEGA)|
 |Rami Ismail|[@tha_rami](https://twitter.com/tha_rami)|[@tha_rami@mastodon.social](https://mastodon.social/@tha_rami)|
 |Rapid Reviews|[@RapidReviewsuk](https://twitter.com/RapidReviewsuk)|[@rapidreviewsuk@home.social](https://home.social/@rapidreviewsuk)|
