@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of **50** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **52** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -20,6 +20,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |CptnAlex|[@Cptn_Alex](https://twitter.com/Cptn_Alex)|[@cptnalex@mstdn.party](https://mstdn.party/@cptnalex)|
 |Daan Koopman|[@NintenDaan](https://twitter.com/NintenDaan)|[@NintenDaan@mastodon.social](https://mastodon.social/@NintenDaan)|
 |David “the Talking Skull” Fox|[@DavidBFox](https://twitter.com/DavidBFox)|[@DavidBFox@mastodon.social](https://mastodon.social/@DavidBFox)|
+|Elias Roa|[@elias0roa](https://twitter.com/elias0roa)|[@elias0roa@mstdn.party](https://mstdn.party/@elias0roa)|
 |Fabraz|[@Fabrazz](https://twitter.com/Fabrazz)|[@fabraz@mastodon.gamedev.place](https://mastodon.gamedev.place/@fabraz)|
 |grace bruxner|[@gracebruxner](https://twitter.com/gracebruxner)|[@gracebruxner@mastodon.social](https://mastodon.social/@gracebruxner)|
 |Hempuli|[@ESAdevlog](https://twitter.com/ESAdevlog)|[@Hempuli@mastodon.gamedev.place](https://mastodon.gamedev.place/@Hempuli)|
@@ -39,6 +40,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Mark Alexander|[@NocturneGames](https://twitter.com/NocturneGames)|[@NocturneGames@mastodon.social](https://mastodon.social/@NocturneGames)|
 |Megan Bidmead|[@meganbidmead](https://twitter.com/meganbidmead)|[@meganbidmead@mastodonapp.uk](https://mastodonapp.uk/@meganbidmead)|
 |Megan Fox|[@glassbottommeg](https://twitter.com/glassbottommeg)|[@glassbottommeg@mastodon.gamedev.place](https://mastodon.gamedev.place/@glassbottommeg)|
+|Michael Burns|[@thatpixelguy](https://twitter.com/thatpixelguy)|[@thatpixelguy@mastodon.gamedev.place](https://mastodon.gamedev.place/@thatpixelguy)|
 |Mike Dailly|[@mdf200](https://twitter.com/mdf200)|[@mdf200@mastodonapp.uk](https://mastodonapp.uk/@mdf200)|
 |Mike Rose|[@RaveofRavendale](https://twitter.com/RaveofRavendale)|[@mikerose@mastodon.online](https://mastodon.online/@mikerose)|
 |Miketendo64|[@miketendo64](https://twitter.com/miketendo64)|[@miketendo64@mastodon.online](https://mastodon.online/@miketendo64)|
