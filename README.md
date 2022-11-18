@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of **48** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **50** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -21,7 +21,9 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Daan Koopman|[@NintenDaan](https://twitter.com/NintenDaan)|[@NintenDaan@mastodon.social](https://mastodon.social/@NintenDaan)|
 |David “the Talking Skull” Fox|[@DavidBFox](https://twitter.com/DavidBFox)|[@DavidBFox@mastodon.social](https://mastodon.social/@DavidBFox)|
 |Fabraz|[@Fabrazz](https://twitter.com/Fabrazz)|[@fabraz@mastodon.gamedev.place](https://mastodon.gamedev.place/@fabraz)|
+|grace bruxner|[@gracebruxner](https://twitter.com/gracebruxner)|[@gracebruxner@mastodon.social](https://mastodon.social/@gracebruxner)|
 |Hempuli|[@ESAdevlog](https://twitter.com/ESAdevlog)|[@Hempuli@mastodon.gamedev.place](https://mastodon.gamedev.place/@Hempuli)|
+|Henry Stockdale|[@Terranauts93](https://twitter.com/Terranauts93)|[@Terranauts93@mastodon.social](https://mastodon.social/@Terranauts93)|
 |Iain MacQuarrie|[@IainMacQuarrie](https://twitter.com/IainMacQuarrie)|[@IainMacQuarrie@mastodon.gamedev.place](https://mastodon.gamedev.place/@IainMacQuarrie)|
 |Jake Birkett|[@GreyAlien](https://twitter.com/GreyAlien)|[@GreyAlien@mastodon.gamedev.place](https://mastodon.gamedev.place/@GreyAlien)|
 |James Sutherland|[@jamessutherland](https://twitter.com/jamessutherland)|[@jamessutherland@mastodon.gamedev.place](https://mastodon.gamedev.place/@jamessutherland)|
