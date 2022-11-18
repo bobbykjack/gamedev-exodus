@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of **53** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **56** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -18,6 +18,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Bobby Jack|[@bobbyjackdotme](https://twitter.com/bobbyjackdotme)|[@bobbyjackdotme@mas.to](https://mas.to/@bobbyjackdotme)|
 |Christian Reggie Wait|[@ChrisReggieWait](https://twitter.com/ChrisReggieWait)|[@Chrisreggiewait@metalhead.club](https://metalhead.club/@Chrisreggiewait)|
 |CptnAlex|[@Cptn_Alex](https://twitter.com/Cptn_Alex)|[@cptnalex@mstdn.party](https://mstdn.party/@cptnalex)|
+|Craig Smith|[@MartiansGame](https://twitter.com/MartiansGame)|[@martian@mastodon.gamedev.place](https://mastodon.gamedev.place/@martian)|
 |Daan Koopman|[@NintenDaan](https://twitter.com/NintenDaan)|[@NintenDaan@mastodon.social](https://mastodon.social/@NintenDaan)|
 |David “the Talking Skull” Fox|[@DavidBFox](https://twitter.com/DavidBFox)|[@DavidBFox@mastodon.social](https://mastodon.social/@DavidBFox)|
 |Elias Roa|[@elias0roa](https://twitter.com/elias0roa)|[@elias0roa@mstdn.party](https://mstdn.party/@elias0roa)|
@@ -34,8 +35,10 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Kela|[@KelaMakesGames](https://twitter.com/KelaMakesGames)|[@kela@mastodon.gamedev.place](https://mastodon.gamedev.place/@kela)|
 |Kev Edwards Retro|[@KevEdwardsRetro](https://twitter.com/KevEdwardsRetro)|[@KevEdwardsRetro@oldbytes.space](https://oldbytes.space/@KevEdwardsRetro)|
 |Kev_Bayliss|[@Kev_Bayliss](https://twitter.com/Kev_Bayliss)|[@kev_bayliss@socel.net](https://socel.net/@kev_bayliss)|
+|Loco Motive|[@LocoMotiveGame](https://twitter.com/LocoMotiveGame)|[@LocoMotive@mastodon.gamedev.place](https://mastodon.gamedev.place/@LocoMotive)|
 |Lord Arse!|[@Lord_Arse](https://twitter.com/Lord_Arse)|[@LordArse@toot.community](https://toot.community/@LordArse)|
 |loren schmidt|[@lorenschmidt](https://twitter.com/lorenschmidt)|[@lorenschmidt@genart.social](https://genart.social/@lorenschmidt)|
+|Louis Durrant|[@louisdurrant](https://twitter.com/louisdurrant)|[@ldurrant@mastodon.art](https://mastodon.art/@ldurrant)|
 |Maddy Thorson|[@MaddyThorson](https://twitter.com/MaddyThorson)|[@maddy@mastodon.gamedev.place](https://mastodon.gamedev.place/@maddy)|
 |Mark Alexander|[@NocturneGames](https://twitter.com/NocturneGames)|[@NocturneGames@mastodon.social](https://mastodon.social/@NocturneGames)|
 |Megan Bidmead|[@meganbidmead](https://twitter.com/meganbidmead)|[@meganbidmead@mastodonapp.uk](https://mastodonapp.uk/@meganbidmead)|
