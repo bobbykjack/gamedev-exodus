@@ -2,7 +2,7 @@
 
 ## About
 
-This is a list of **59** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
+This is a list of **61** accounts related to video gaming in some way: developers, artists, streamers, journalists, etc. Most are people I’ve followed on Twitter, and all have a Mastodon account.
 
 You may find this useful when setting up your own Mastodon account and looking for people to follow. 
 
@@ -21,6 +21,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |CptnAlex|[@Cptn_Alex](https://twitter.com/Cptn_Alex)|[@cptnalex@mstdn.party](https://mstdn.party/@cptnalex)|
 |Craig Smith|[@MartiansGame](https://twitter.com/MartiansGame)|[@martian@mastodon.gamedev.place](https://mastodon.gamedev.place/@martian)|
 |Daan Koopman|[@NintenDaan](https://twitter.com/NintenDaan)|[@NintenDaan@mastodon.social](https://mastodon.social/@NintenDaan)|
+|Daley Eve|[@Daley_Kong](https://twitter.com/Daley_Kong)|[@Daley_Kong@mastodon.gamedev.place](https://mastodon.gamedev.place/@Daley_Kong)|
 |David “the Talking Skull” Fox|[@DavidBFox](https://twitter.com/DavidBFox)|[@DavidBFox@mastodon.social](https://mastodon.social/@DavidBFox)|
 |Elias Roa|[@elias0roa](https://twitter.com/elias0roa)|[@elias0roa@mstdn.party](https://mstdn.party/@elias0roa)|
 |Fabraz|[@Fabrazz](https://twitter.com/Fabrazz)|[@fabraz@mastodon.gamedev.place](https://mastodon.gamedev.place/@fabraz)|
@@ -64,6 +65,7 @@ You may find this useful when setting up your own Mastodon account and looking f
 |Ryan Brown|[@Toadsanime](https://twitter.com/Toadsanime)|[@Toadsanime@mas.to](https://mas.to/@Toadsanime)|
 |Silver Spook Games|[@SilvrSpookGames](https://twitter.com/SilvrSpookGames)|[@SilverSpookGames@mastodon.social](https://mastodon.social/@SilverSpookGames)|
 |Stealth|[@Stealth40k](https://twitter.com/Stealth40k)|[@Stealth40k@mstdn.social](https://mstdn.social/@Stealth40k)|
+|Super Rare Games|[@SuperRareGames](https://twitter.com/SuperRareGames)|[@SuperRareGames@mastodon.gamedev.place](https://mastodon.gamedev.place/@SuperRareGames)|
 |Terry Cavanagh|[@terrycavanagh](https://twitter.com/terrycavanagh)|[@terry@mastodon.gamedev.place](https://mastodon.gamedev.place/@terry)|
 |The Video Game Library|[@TheVGLibrary](https://twitter.com/TheVGLibrary)|[@thevglibrary@mstdn.social](https://mstdn.social/@thevglibrary)|
 |Wario64|[@Wario64](https://twitter.com/Wario64)|[@Wario64@mastodon.social](https://mastodon.social/@Wario64)|
